@@ -19,6 +19,7 @@ function Dropdown(props) {
       </NavLink>
       <NavLink to="/about-me" activeClassName="active">
         <div className="navs"> hech narsa yu</div>
+        
       </NavLink>
     </React.Fragment>
   );
